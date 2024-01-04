@@ -1,1 +1,1 @@
-#This Readme file is about introduction to high level language Python.
+This readme file is about an introduction to Python

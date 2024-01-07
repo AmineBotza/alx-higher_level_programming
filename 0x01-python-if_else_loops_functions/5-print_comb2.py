@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-for digits in range(100):
-    if digits == 99:
-        print(digits)
+for i in range(100):
+    if i == 99:
+        print(i)
     else:
-        print("{}".format('0' + str(digits) if digits < 10 else digits), end=", ")
+        print("{}".format('0' + str(i) if i < 10 else i), end=", ")
